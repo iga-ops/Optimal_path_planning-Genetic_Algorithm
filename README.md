@@ -1,5 +1,5 @@
 # Optimal_path_planning-Genetic_Algorithm
-The use of a genetic algorithm to determine optimal routes for drones, where the obtained route is expected to fulfill the condition of minimizing the energy consumption. 
+The use of a genetic algorithm to determine **optimal routes** for drones, where the obtained route is expected to fulfill the condition of **minimizing the energy consumption**. 
 
 
 ### The established assumptions:
@@ -37,4 +37,4 @@ The use of a genetic algorithm to determine optimal routes for drones, where the
 5) The generation of graphs showing the result is performed.
 
 ## An example of a obtained graph.
-![My Image](C:\Users/igach/Downloads/result_example.PNG)
+<img width="434" alt="result_example" src="https://user-images.githubusercontent.com/75940256/154169772-29c17e46-2f41-4e44-950a-56254f1dec47.PNG">
