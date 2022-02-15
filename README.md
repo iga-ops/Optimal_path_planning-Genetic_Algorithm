@@ -37,3 +37,4 @@ The use of a genetic algorithm to determine optimal routes for drones, where the
 5) The generation of graphs showing the result is performed.
 
 ## An example of a obtained graph.
+![My Image](C:\Users/igach/Downloads/result_example.PNG)
